@@ -286,8 +286,11 @@ nav{
 /* min-width: 1200px cambio la dirección de la gale de productos a row*/
 @media (min-width: 1200px){
     
-    /*main section article:hover{
-        margin: 45px;
+    main section article div p:hover{
+        font-weight: 700;
+    }
+    main section article:hover{
+        transform: scale(1.017);
         transition: 1s;
-    }*/
+    }
 }
